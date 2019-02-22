@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2DEBA77B-2EE6-B145-EAD9-FB65A6E36D85}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityChan/Scripts/UnityChanMove.cs">
+    <Files>
+      <File FileName="Assets/UnityChan/Scripts/UnityChanMove.cs" Line="31" Column="1" />
+      <File FileName="Assets/UnityChan/Scripts/IdleChanger.cs" Line="13" Column="1" />
+      <File FileName="Assets/UnityChan/Scripts/SpringManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityChan/Scripts/IKCtrlRightHand.cs" Line="14" Column="39" />
+      <File FileName="Assets/UnityChan/Scripts/UnityChanControlScriptWithRgidBody.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityChanMove" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UnityChan" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="UnityChanMove.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
